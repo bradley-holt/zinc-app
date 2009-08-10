@@ -10,6 +10,8 @@
  * @version    $Id$
  */
 
+require_once 'Zinc/Model/Atom/EntryTest.php';
+
 /**
  * @category   Zinc
  * @package    Zinc_Model

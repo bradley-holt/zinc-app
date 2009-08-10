@@ -10,6 +10,8 @@
  * @version    $Id$
  */
 
+require_once 'Zinc/Model/AllTests.php';
+
 /**
  * @category   Zinc
  * @package    Zinc
